@@ -51,7 +51,7 @@ $(function(){
 		return;
 	}
 	
-	// is not
+	// is not mobile
 	var removePhoneLink = function($link){
 		console.log($link);
 		var text = $link.text();
